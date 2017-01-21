@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/explore"
+            android:checked="false"
+            android:icon="@drawable/ic_view_explore"
+            android:title="@string/nav_item_Discover" />
+
+        <item
+            android:id="@+id/favorite"
+            android:checked="false"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/nav_item_favorites" />
+        <item
+            android:id="@+id/localfavorite"
+            android:checked="false"
+            android:icon="@drawable/ic_add_to_queue_black_48px"
+            android:title="@string/nav_item_add_local" />
+
+        <item
+            android:id="@+id/rateUs"
+            android:checked="false"
+            android:icon="@drawable/ic_rate"
+            android:title="@string/nav_item_rateUs" />
+
+        <item
+            android:id="@+id/feedback"
+            android:checked="false"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/nav_item_feedback" />
+
+
+        <item
+            android:id="@+id/facebook"
+            android:checked="false"
+            android:icon="@drawable/ic_facebook"
+            android:title="@string/nav_item_facebook" />
+
+        <item
+            android:id="@+id/share"
+            android:checked="false"
+            android:icon="@drawable/ic_share"
+            android:title="@string/nav_item_share" />
+
+        <item
+            android:id="@+id/settings"
+            android:checked="false"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/nav_item_settings" />
+    </group>
+</menu>

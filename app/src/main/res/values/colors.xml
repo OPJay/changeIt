@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="dark">#414141</color>
+    <color name="orange">#FF9900</color>
+    <color name="blue">#344f5b</color>
+    <color name="dark_blue">#27383f</color>
+    <color name="skyBlue">#12a4fe</color>
+    <color name="skyBlueTransparent">#9c12a4fe</color>
+    <color name="skyBluePressed">#67c5ff</color>
+    <color name="gray">#7e7e7e</color>
+</resources>

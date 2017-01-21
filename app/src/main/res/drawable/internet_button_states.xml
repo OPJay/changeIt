@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+        <shape>
+            <solid
+                android:color="@color/skyBluePressed" />
+            <corners
+                android:radius="2dp" />
+            <padding
+                android:left="5dp"
+                android:top="0dp"
+                android:right="5dp"
+                android:bottom="0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/skyBlue"
+                android:endColor="@color/skyBlue"
+                android:angle="270" />>
+            <corners
+                android:radius="2dp" />
+            <padding
+                android:left="5dp"
+                android:top="0dp"
+                android:right="5dp"
+                android:bottom="0dp" />
+        </shape>
+    </item>
+</selector>

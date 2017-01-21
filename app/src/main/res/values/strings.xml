@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_tabs_footer">ca-app-pub-2039096134042036/3000789907</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="app_name">Change It</string>
+    <string name="title_name">Change It</string>
+    <string name="clear_disk_cache">Clear cache</string>
+    <string name="internet_warning">No internet detected.\nSwipe to other tabs to refresh</string>
+    <string name="retry">RETRY</string>
+    <string name="title_share">Download Change it</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_Discover">Discover</string>
+    <string name="nav_item_rateUs">Rate Us</string>
+    <string name="nav_item_favorites">Favorites</string>
+    <string name="nav_item_add_local">Add to favorites</string>
+    <string name="nav_item_feedback">Send feedback</string>
+    <string name="nav_item_facebook">Like us on facebook</string>
+    <string name="nav_item_settings">Settings</string>
+    <string name="nav_item_share">Share</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_Discover</item>
+        <item>@string/nav_item_rateUs</item>
+        <item>@string/nav_item_favorites</item>
+    </string-array>
+    <string name="title_discover">Discover</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_favorites">Add to favorites</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+
+    <string name="new_pictures_title">New arrivals in Change it</string>
+    <string name="new_pictures_text">Now change background with just a click!</string>
+    <string name="text_time_chooser">Change wallpaper every</string>
+    <string name="time_chooser_edittext">"30"</string>
+    <string name="termAndCondition">
+        Greetings Change it users! We are very pleased to meet you.\n\n
+        We advice you to go through the following terms and contions of using this application.\n\n
+        \tThe images and graphics shown in this application are fully
+        owned by the source where they come from.They
+        can be photographers,websites or even a company.Even though most of the images are license free,the owner
+        reserves all rights.So comply with any requirements or restrictions imposed on usage of the photos by their
+        respective owners. Remember,Change it doesn\'t own the images,the users do. Although the Change it can be used
+        to provide you with access to different  photos, neither the provision of the Change it to you nor your use of
+        the this application override the photo owners\' requirements and restrictions, which may include all rights reserved
+        notices (attached to each photo by default when shown in Change it),Creative Commons licenses or other terms and
+        conditions that may be agreed upon between you and the owners. In all cases, you are solely responsible for making
+        use of Change it photos in compliance with the photo owners\' requirements or restrictions. If you use Change it photos
+        for a commercial purpose, the photos must be marked with a Creative Commons license that allows for such use, unless
+        otherwise agreed upon between you and the owner.
+    </string>
+</resources>

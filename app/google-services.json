@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "134376858701",
+    "firebase_url": "https://admob-app-id-1524056704.firebaseio.com",
+    "project_id": "admob-app-id-1524056704",
+    "storage_bucket": "admob-app-id-1524056704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134376858701:android:6dc429bc9abad2b6",
+        "android_client_info": {
+          "package_name": "com.fullpower.changeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134376858701-25bmshpr7n9bjkv4r2s6q7529pf29kmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq54wM4RUI-uAkRfeRr-NrwHJUnhQgaXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

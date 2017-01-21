@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/favouriteFrameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/toolbarPager"
+        layout="@layout/toolbar_search" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="?android:attr/listPreferredItemPaddingLeft"
+            android:layout_marginRight="?android:attr/listPreferredItemPaddingRight"
+            android:layout_marginTop="?attr/actionBarSize"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Terms of service" />
+
+        <TextView
+            android:id="@+id/textTAndC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:layout_gravity="start"
+            android:layout_marginLeft="?android:attr/listPreferredItemPaddingLeft"
+            android:layout_marginRight="?android:attr/listPreferredItemPaddingRight"
+            android:layout_marginTop="5dp"
+            android:text="Hello World!" />
+    </LinearLayout>
+</FrameLayout>
